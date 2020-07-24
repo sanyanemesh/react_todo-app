@@ -11,3 +11,5 @@ Features:
 - ability to remove an item.
 - ability to clear completed items from the list
 - ability to toggle the completed status of all the todos.
+
+[DEMO LINK](https://sanyanemesh.github.io/react_todo-app/)
